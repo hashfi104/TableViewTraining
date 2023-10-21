@@ -1,0 +1,23 @@
+//
+//  ProfileEditTableViewCell.swift
+//  AssesmentDay2
+//
+//  Created by Hashfi Alfian Ciyuda on 18/10/23.
+//
+
+import UIKit
+
+class ProfileEditTableViewCell: UITableViewCell {
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+
+        // Configure the view for the selected state
+    }
+    
+}
